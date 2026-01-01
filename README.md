@@ -9,7 +9,7 @@ The overall goal of the BBO capstone project is to create an effective optimizat
 Engaging in this BBO capstone project supports my current and future career aspirations by providing hands-on experience with advanced machine learning techniques, enhancing my problem-solving abilities in real-world applications, and preparing me for roles in data science and AI development.
 
 
-## 2: Inputs and Outputs
+## 2. Inputs and Outputs
 
 The model receives and returns the following:
 
@@ -38,7 +38,7 @@ Expected output format:
 }
 ```
 
-## 3: Challenge Objectives
+## 3. Challenge Objectives
 
 Within the BBO Capstone Project, the primary objective is to maximize the selected functions by effectively exploring the input space and identifying their maxima using a blend of Machine Learning (ML) methods.
 
@@ -48,7 +48,7 @@ The goal is to maximize the function outputs while adhering to the following con
 - **Unknown Function Structure**: The functions can exhibit complex behaviors and non-linear relationships, which complicates modeling and optimization efforts. It may lead to slow convergence at times, challenging the efficiency of the optimization process.
 
 
-## 4: Technical Approach
+## 4. Technical Approach
 
 Throughout the course of my BBO capstone project, I have developed a systematic approach to optimizing complex functions, which evolved across three query submissions. This section serves as a living record of the strategies and methodologies employed, and it will be updated as my approach continues to evolve.
 
