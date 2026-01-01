@@ -6,8 +6,6 @@ The Black Box Optimization (BBO) Capstone Project focuses on optimizing complex 
 
 The overall goal of the BBO capstone project is to create an effective optimization framework that balances exploration and exploitation, enabling the discovery of global maxima with minimal computational resources. This project holds significant relevance in real-world machine learning as it addresses complex optimization problems commonly encountered in various domains such as engineering design, finance optimization, and hyperparameter tuning in machine learning models. The high-level idea is to systematically evaluate and refine approaches to maximize function outputs in uncertain and multidimensional spaces.
 
-Engaging in this BBO capstone project supports my current and future career aspirations by providing hands-on experience with advanced machine learning techniques, enhancing my problem-solving abilities in real-world applications, and preparing me for roles in data science and AI development.
-
 
 ## 2. Inputs and Outputs
 
@@ -80,4 +78,6 @@ Throughout the project, I primarily employed the following methodologies:
 My approach to balancing exploration and exploitation involves a dynamic adaptation of the beta parameter in the UCB acquisition function. By using insights from SVM's categorization, I strategically increase the beta value to promote exploration in potentially fruitful regions while maintaining an awareness of previously identified maxima.
 
 What makes my approach unique is this integration of diverse methods - leveraging both probabilistic modeling (GP) and classification techniques (SVM). This combination allows for a nuanced exploration strategy that can adapt and respond to the inherent complexities present in the functions being optimized.
+
+As I continue to engage with this project, I will refine and expand upon these strategies to enhance performance and meet the challenging objectives set forth.
 
